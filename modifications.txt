@@ -1,0 +1,26 @@
+Damiano:
+---------------------------------------------------------------------------------------------------------------------------------------------
+    -Fatto:
+        -collegata homepage a pagina registrazione 19/04/19
+        -Aggiunto login,logout e visualizzazione materie tramite un solo file con DOM dinamico 19/04/19 01:42
+        -Ora si puo clickare su un thread per eseguire un submit alla pagina di visualizzazione della domanda e delle sue risposte e costruire dinamicamente la pagina 24/04/19 14.40
+    -Da Fare:
+        -creare metodi di registrazione e login 19/04/19
+        -lettura domande dal database e creazione lista domande nella pagina domande.php
+        -Ottimizzare il codice 24/04/19 14.40
+    -Note:
+        -Ho deciso di ricreare il login e registra poiche prima era troppo complesso e poco efficiente. 19/04/19
+        -Login e Registra sono ancora in fase di test. 19/04/19 01:42
+        -Aggiunta una colonna nella tabella table per la visualizzazione della data di creazione di una domanda. 19/04/19 01:42
+        -Quando si clicca su una riga viene inserito dentro l'attributo value del bottone con id = domanda l'id della domanda , dal server sara' quindi possibile leggere questo valore controllando la variabile $_POST['domanda']. 24/04/19 14.40
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Tommaso:
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Riccardo:
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Mattia:
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
