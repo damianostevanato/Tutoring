@@ -1,5 +1,5 @@
 per impostare una password di connessione al dbms editare il file config.ini nella directory 'controller'
-
+software neccessario xampp , apache, mysql , phpmyadmin
 nel db e' presente un utente admin con credenziali: 
 email: admin@gmail.com	
 password: 12
