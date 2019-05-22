@@ -1,0 +1,33 @@
+per impostare una password di connessione al dbms editare il file config.ini nella directory 'controller'
+
+nel db e' presente un utente admin con credenziali: 
+email: admin@gmail.com	
+password: 12
+
+nel db e' presente un utente normale con credenziali:
+
+email: tizio@caio.it
+password: 123
+
+https non ha un certificato valido 
+
+Descrizione:
+Quando si usa un account normale (non admin):
+Visualizzare le varie materie "Sezioni",
+Creare una nuova domanda,
+Visitare le domande gia create da altri utenti e rispondere
+
+Quando si usa un account admin: 
+Aggiungere sezioni,
+Eliminare domande
+Eliminare sezioni
+
+Quando non si e' loggati:
+Visitare il sito senza creare ne rispondere a domande
+
+
+possibili futuri upgrade:
+Eliminazione degli utenti da parte degli admin 
+Possibilita per l'admin di caricare un immagine assieme alla creazione di una sezione
+Possibilita per gli utenti di allegare file
+Sistema valutazione domande
